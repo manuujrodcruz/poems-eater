@@ -6,6 +6,7 @@ __pycache__/
 
 # Output files
 *.csv
+*.xlsx
 poems_list.txt
 
 # IDE
@@ -18,8 +19,3 @@ poems_list.txt
 # OS
 .DS_Store
 Thumbs.db
-
-
-
-
-
